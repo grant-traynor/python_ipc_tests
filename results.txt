@@ -1,7 +1,3 @@
-# python_ipc_tests
-I/O Throughput / Exchange performance tests for various IPCs and Threaded / Multiprocessing methods in python
-
-# Simple Result Overview
 50,000 Messages                                     Time(s)    /msg(us)   msg/sec
 pipetest01 - Protocol.method                          5.9        120        8400
 pipetest02 - Protocol.Class - localhost               3.8         77       12950
